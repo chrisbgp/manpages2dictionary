@@ -1,4 +1,5 @@
-# manpages2dictionary
+manpages2dictionary
+=============
 
 ----
 
@@ -7,6 +8,8 @@ a little script to create a mac osx dictionary from all your systems manpages...
 ### requirements
 
 * Apple Dictionary Developer Kit (https://developer.apple.com/downloads/index.action?name=for%20Xcode%20-)
+* man2html (available via homebrew)
+* ...maybe you need to change the iconv parameters in the manpages.sh script
 
 ### usage
 

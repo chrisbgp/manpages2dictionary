@@ -1,5 +1,4 @@
-manpages2dictionary
-=============
+# manpages2dictionary
 
 ----
 

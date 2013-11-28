@@ -19,5 +19,10 @@ a little script to create a mac osx dictionary from all your systems manpages...
 
 ##### Open the Dictionary.app Preferences to select the manpages package
 
+
+#### if make fails...
+
+edit `bin/replace_entryid_bodyid.pl` and comment out lines 86-89
+
 ----
 a precompiled version can be downloaded via the releases.

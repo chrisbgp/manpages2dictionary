@@ -22,7 +22,7 @@ a little script to create a mac osx dictionary from all your systems manpages...
 
 #### if make fails...
 
-edit `bin/replace_entryid_bodyid.pl` and comment out lines 86-89
+edit `bin/replace_entryid_bodyid.pl` (in the Dictionary Developer Kit ROOT) and comment out lines 86-89
 
 ----
 a precompiled version can be downloaded via the releases.
